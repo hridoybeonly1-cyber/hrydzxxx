@@ -7,7 +7,7 @@
   }
 
   const _0x5e548e = {
-    k: "https://raw.githubusercontent.com/hridoybeonly1-cyber/hrydzxxx/main/button.txt",
+    k: "https://raw.githubusercontent.com/hridoybeonly1-cyber/hrydzxxx/refs/heads/main/key.txt",
     r: "https://raw.githubusercontent.com/hridoybeonly1-cyber/hrydzxxx/main/hrydzx.txt",
     t: "https://raw.githubusercontent.com/hridoybeonly1-cyber/hrydzxxx/main/button.txt"
   };
