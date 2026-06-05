@@ -47,7 +47,7 @@
       font-family:'Public Sans',sans-serif;
     `;
 
-    // ── AUTH BOX (BT4 card style) ──────────────────────────────────────────
+    // ── AUTH BOX (HrydzXxX card style) ──────────────────────────────────────────
     const _0xd9eed1 = document.createElement("div");
     _0xd9eed1.id = "rama-auth-box";
     _0xd9eed1.style.cssText = `
@@ -141,7 +141,7 @@
           setTimeout(async () => {
             overlay.remove();
 
-            // ── LOADING OVERLAY (BT4 style) ──────────────────────────────
+            // ── LOADING OVERLAY (HrydzXxX style) ──────────────────────────────
             const _0x4761a5 = document.createElement("div");
             _0x4761a5.style.cssText = `
               position:fixed;top:0;left:0;width:100%;height:100%;
@@ -189,7 +189,7 @@
 
             if (_0x4165b7.startsWith("http")) {
 
-              // ── COUNTDOWN OVERLAY (BT4 style) ────────────────────────
+              // ── COUNTDOWN OVERLAY (HrydzXxX style) ────────────────────────
               const _0x384096 = document.createElement("div");
               _0x384096.style.cssText = `
                 position:fixed;top:0;left:0;width:100%;height:100%;
@@ -218,7 +218,7 @@
                   <p style="margin-top:20px;color:#e4e6ef;font-size:16px;font-weight:700;letter-spacing:1px;">
                     REDIRECTING...
                   </p>
-                  <p style="margin-top:4px;color:#a1acb8;font-size:11px;">Powered by BT4 Theme</p>
+                  <p style="margin-top:4px;color:#a1acb8;font-size:11px;">Powered by HrydzXxX</p>
                 </div>
               `;
               document.body.appendChild(_0x384096);
